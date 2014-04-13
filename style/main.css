@@ -719,7 +719,7 @@ hr {
     transform: translate(202px, 202px); }
 
   .tile .tile-inner {
-    font-size: 35px; }
+    font-size: 0; }
 
   .game-message p {
     font-size: 30px !important;
