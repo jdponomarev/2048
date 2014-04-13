@@ -327,7 +327,7 @@ hr {
     background-size:cover;
   }
   .tile.tile-8 .tile-inner {
-    background: url("/images/8.jpg") no-repeat;
+    background: url("../images/8.jpg") no-repeat;
     background-size:cover;
     }
   .tile.tile-16 .tile-inner {
